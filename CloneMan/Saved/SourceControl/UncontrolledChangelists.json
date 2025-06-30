@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnityProjects/2BD_SeedJam/CloneMan/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/UnityProjects/2BD_SeedJam/CloneMan/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/MV/UE2U7GTDT7WM2AVP83861S.uasset",
+				"D:/UnityProjects/2BD_SeedJam/CloneMan/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/PH/7W47O8SS7S5CV8OUJZPTGY.uasset",
+				"D:/UnityProjects/2BD_SeedJam/CloneMan/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/GM/HARBV1IO7SXJ246BKN3GXW.uasset",
+				"D:/UnityProjects/2BD_SeedJam/CloneMan/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/77/QX0I09RR3XJDFHTDOEWPBU.uasset"
+			]
+		}
+	]
+}
